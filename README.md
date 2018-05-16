@@ -1,4 +1,4 @@
-Advanced CSS and Sass, node-sass and RWD project
+# Advanced CSS and Sass, node-sass and RWD project
 
 Natours project:
 
