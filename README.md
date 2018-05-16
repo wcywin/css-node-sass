@@ -1,4 +1,3 @@
-# css-node-sass
 Advanced CSS and Sass, node-sass and RWD project
 
 Natours project:
