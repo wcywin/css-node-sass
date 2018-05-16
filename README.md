@@ -2,7 +2,7 @@
 
 Natours project:
 
-- CSS Architecture
+- Advanced CSS architecture and features
 - BEM methodology
 - Sass with node-sass
 - RWD with cross-browser and cross-device
