@@ -7,4 +7,4 @@ Natours project:
 - Sass with node-sass
 - RWD with cross-browser and cross-device
 
-http://www.cywinski.pro/sass
+https://www.cywinski.pro/sass
